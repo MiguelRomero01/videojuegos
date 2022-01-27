@@ -1,0 +1,153 @@
+body {
+  background-color: #f5f5f5;
+  margin: 6.2px 6.2px;
+}
+
+img {
+  transition: all 0.2s linear;
+}
+
+footer{
+  font-size: 22px;
+  color: orangered;
+}
+
+/**divs*/
+#_uls ul {
+  color: transparent;
+}
+
+#uls ul {
+  color: transparent;
+}
+/**fin*/
+
+/**headrers*/
+h1 {
+  color: yellowgreen;
+  font-size: 45px;
+  font-family: cursive;
+  text-align: center;
+}
+
+.h {
+  color: tomato;
+  font-size: 50px;
+  font-family: fantasy;
+}
+/**fin*/
+
+/**links y "hovers"*/
+a {
+  color: rgb(47, 185, 231);
+  font-size: 24px;
+  font-family: sans-serif;
+  transition: all 99ms linear;
+}
+
+a:hover {
+  color: #ff4b5c;
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+img:hover {
+  transform: scale(0.97);
+}
+
+.bnf:hover {
+  color: yellowgreen;
+  border-bottom: dotted yellowgreen 4px;
+}
+
+._pts,
+.pts:hover {
+  color: transparent;
+}
+
+/**fin*/
+
+/**_gamesos e imagenes*/
+p {
+  font-size: 22.5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+span {
+  font-size: 22.5px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+.logo2 {
+  margin: 6.2px 520px;
+}
+
+img {
+  padding: 10px;
+}
+/**fin*/
+
+/**estilos "i"*/
+
+._games {
+  color: #ff4b5c;
+  font-family: cursive;
+}
+
+._comillas {
+  color: salmon;
+  font-family: cursive;
+}
+
+.brackets {
+  color: dodgerblue;
+  font-family: cursive;
+}
+
+span i,
+p i {
+  color: coral;
+  font-size: 23px;
+}
+
+i {
+  color: yellowgreen;
+}
+
+.dsrll {
+  color: #393e46;
+  font-weight: 300;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.bnf {
+  color: yellowgreen;
+  border-bottom: solid yellowgreen 4px;
+}
+
+/**fin*/
+
+/**hr*/
+hr {
+  border-color: darkviolet;
+}
+/**fin*/
+
+/**clases*/
+.pts {
+  color: transparent;
+  font-size: 21px;
+  font-weight: 400;
+}
+
+._pts {
+  font-size: 21px;
+  font-weight: 400;
+  color: transparent;
+}
+
+.black {
+  color: black;
+}
+/**fin*/
